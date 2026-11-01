@@ -74,3 +74,4 @@ Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi (ATÜ)
 
 ## 📄 Lisans
 Bu proje [MIT Lisansı](LICENSE) kapsamında açık kaynaklıdır. Akademik çalışmalarda ve sektörel analizlerde kaynak gösterilerek serbestçe kullanılabilir.
+
